@@ -1,6 +1,6 @@
 {
   "name": "NodeJsMongoUserModule",
-  "version": "1",
+  "version": "0.1.0",
   "description": "NodeJs Mongo-DB User module",
   "main": "./bin/www",
   "repository": "https://github.com/suresh-pattu/nodejs-mongo-user-module.git",
